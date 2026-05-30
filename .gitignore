@@ -9,3 +9,5 @@ monitor.csv
 *.log
 
 *.tmp
+
+*.zip
